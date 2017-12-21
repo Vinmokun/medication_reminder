@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medication Reminder</string>
+    <string name="add_record">Add Medication</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No Medications (Tap The + In The Top Right Corner)</string>
+</resources>
